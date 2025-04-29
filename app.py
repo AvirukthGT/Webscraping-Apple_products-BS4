@@ -46,3 +46,7 @@ with open('amazon_airpods.csv',mode='w',newline='',encoding='utf-8') as file:
     writer.writerow([product_title,product_price,product_availability,product_rating,product_bp,product_review])
 
 print("Data Exported")
+
+
+
+
